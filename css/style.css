@@ -18,7 +18,7 @@ body {
     background-position: center;
     background-color: rgb(0,0,0,0.5);
     background-blend-mode: multiply;
-    padding: 75px;
+    padding: 50px 20px;
     box-shadow: 0 0 32px rgb(255, 255, 255);
 }
 
